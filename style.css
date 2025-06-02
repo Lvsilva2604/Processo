@@ -86,3 +86,7 @@ body{
     button:hover{
         background-color: rgb(4, 102, 12);
     }
+
+    footer{
+        color: rgb(255, 255, 255);
+    }
